@@ -1,0 +1,350 @@
+# depslib dependency file v1.0
+1470392806 source:c:\users\admin\desktop\final project (1)\final project\arrow.cpp
+	<windows.h>
+	"figures.h"
+
+1301111162 f:\vg101\ÂÒÆß°ËÔã\codeblocks\mingw\include\windows.h
+	<winresrc.h>
+	<stdarg.h>
+	<windef.h>
+	<wincon.h>
+	<winbase.h>
+	<wingdi.h>
+	<winuser.h>
+	<winnls.h>
+	<winver.h>
+	<winnetwk.h>
+	<winreg.h>
+	<winsvc.h>
+	<cderr.h>
+	<dde.h>
+	<ddeml.h>
+	<dlgs.h>
+	<imm.h>
+	<lzexpand.h>
+	<mmsystem.h>
+	<nb30.h>
+	<rpc.h>
+	<shellapi.h>
+	<winperf.h>
+	<commdlg.h>
+	<winspool.h>
+	<winsock2.h>
+	<winsock.h>
+	<ole2.h>
+
+1301111162 f:\vg101\ÂÒÆß°ËÔã\codeblocks\mingw\include\winresrc.h
+	<winuser.h>
+	<winnt.h>
+	<winver.h>
+	<dde.h>
+	<dlgs.h>
+	<commctrl.h>
+
+1301111164 f:\vg101\ÂÒÆß°ËÔã\codeblocks\mingw\include\winuser.h
+
+1301111162 f:\vg101\ÂÒÆß°ËÔã\codeblocks\mingw\include\winnt.h
+	<winerror.h>
+	<string.h>
+	<basetsd.h>
+	<pshpack4.h>
+	<poppack.h>
+
+1301111162 f:\vg101\ÂÒÆß°ËÔã\codeblocks\mingw\include\winerror.h
+
+1341006776 f:\vg101\ÂÒÆß°ËÔã\codeblocks\mingw\include\string.h
+	<_mingw.h>
+	<stddef.h>
+
+1341006770 f:\vg101\ÂÒÆß°ËÔã\codeblocks\mingw\include\_mingw.h
+
+1301111148 f:\vg101\ÂÒÆß°ËÔã\codeblocks\mingw\include\basetsd.h
+
+1301111156 f:\vg101\ÂÒÆß°ËÔã\codeblocks\mingw\include\pshpack4.h
+
+1301111156 f:\vg101\ÂÒÆß°ËÔã\codeblocks\mingw\include\poppack.h
+
+1301111164 f:\vg101\ÂÒÆß°ËÔã\codeblocks\mingw\include\winver.h
+
+1301111148 f:\vg101\ÂÒÆß°ËÔã\codeblocks\mingw\include\dde.h
+
+1301111150 f:\vg101\ÂÒÆß°ËÔã\codeblocks\mingw\include\dlgs.h
+
+1301111148 f:\vg101\ÂÒÆß°ËÔã\codeblocks\mingw\include\commctrl.h
+	<prsht.h>
+
+1301111156 f:\vg101\ÂÒÆß°ËÔã\codeblocks\mingw\include\prsht.h
+
+1301111162 f:\vg101\ÂÒÆß°ËÔã\codeblocks\mingw\include\windef.h
+	<winnt.h>
+
+1301111162 f:\vg101\ÂÒÆß°ËÔã\codeblocks\mingw\include\wincon.h
+
+1301111160 f:\vg101\ÂÒÆß°ËÔã\codeblocks\mingw\include\winbase.h
+
+1301111162 f:\vg101\ÂÒÆß°ËÔã\codeblocks\mingw\include\wingdi.h
+
+1301111162 f:\vg101\ÂÒÆß°ËÔã\codeblocks\mingw\include\winnls.h
+
+1301111162 f:\vg101\ÂÒÆß°ËÔã\codeblocks\mingw\include\winnetwk.h
+
+1301111162 f:\vg101\ÂÒÆß°ËÔã\codeblocks\mingw\include\winreg.h
+
+1301111164 f:\vg101\ÂÒÆß°ËÔã\codeblocks\mingw\include\winsvc.h
+
+1301111148 f:\vg101\ÂÒÆß°ËÔã\codeblocks\mingw\include\cderr.h
+
+1301111148 f:\vg101\ÂÒÆß°ËÔã\codeblocks\mingw\include\ddeml.h
+
+1301111150 f:\vg101\ÂÒÆß°ËÔã\codeblocks\mingw\include\imm.h
+
+1301111154 f:\vg101\ÂÒÆß°ËÔã\codeblocks\mingw\include\lzexpand.h
+
+1301111154 f:\vg101\ÂÒÆß°ËÔã\codeblocks\mingw\include\mmsystem.h
+
+1301111154 f:\vg101\ÂÒÆß°ËÔã\codeblocks\mingw\include\nb30.h
+
+1301111158 f:\vg101\ÂÒÆß°ËÔã\codeblocks\mingw\include\rpc.h
+	<windows.h>
+	<rpcdce.h>
+	<rpcnsi.h>
+	<rpcnterr.h>
+	<winerror.h>
+	<excpt.h>
+
+1301111158 f:\vg101\ÂÒÆß°ËÔã\codeblocks\mingw\include\rpcdce.h
+	<basetyps.h>
+	<rpcdcep.h>
+
+1301111148 f:\vg101\ÂÒÆß°ËÔã\codeblocks\mingw\include\basetyps.h
+
+1301111158 f:\vg101\ÂÒÆß°ËÔã\codeblocks\mingw\include\rpcdcep.h
+
+1301111158 f:\vg101\ÂÒÆß°ËÔã\codeblocks\mingw\include\rpcnsi.h
+
+1301111158 f:\vg101\ÂÒÆß°ËÔã\codeblocks\mingw\include\rpcnterr.h
+
+1341006772 f:\vg101\ÂÒÆß°ËÔã\codeblocks\mingw\include\excpt.h
+	<_mingw.h>
+	<windef.h>
+
+1301111160 f:\vg101\ÂÒÆß°ËÔã\codeblocks\mingw\include\shellapi.h
+	<pshpack2.h>
+	<poppack.h>
+
+1301111156 f:\vg101\ÂÒÆß°ËÔã\codeblocks\mingw\include\pshpack2.h
+
+1301111162 f:\vg101\ÂÒÆß°ËÔã\codeblocks\mingw\include\winperf.h
+
+1301111148 f:\vg101\ÂÒÆß°ËÔã\codeblocks\mingw\include\commdlg.h
+	<unknwn.h>
+	<prsht.h>
+
+1301111160 f:\vg101\ÂÒÆß°ËÔã\codeblocks\mingw\include\unknwn.h
+	<windows.h>
+	<objfwd.h>
+	<wtypes.h>
+
+1301111156 f:\vg101\ÂÒÆß°ËÔã\codeblocks\mingw\include\objfwd.h
+	<basetyps.h>
+
+1301111164 f:\vg101\ÂÒÆß°ËÔã\codeblocks\mingw\include\wtypes.h
+	<rpc.h>
+	<rpcndr.h>
+
+1301111158 f:\vg101\ÂÒÆß°ËÔã\codeblocks\mingw\include\rpcndr.h
+	<rpcnsip.h>
+	<objfwd.h>
+
+1301111158 f:\vg101\ÂÒÆß°ËÔã\codeblocks\mingw\include\rpcnsip.h
+
+1301111162 f:\vg101\ÂÒÆß°ËÔã\codeblocks\mingw\include\winspool.h
+
+1301111162 f:\vg101\ÂÒÆß°ËÔã\codeblocks\mingw\include\winsock2.h
+	<windows.h>
+
+1301111162 f:\vg101\ÂÒÆß°ËÔã\codeblocks\mingw\include\winsock.h
+	<windows.h>
+	<mswsock.h>
+
+1301111154 f:\vg101\ÂÒÆß°ËÔã\codeblocks\mingw\include\mswsock.h
+
+1301111156 f:\vg101\ÂÒÆß°ËÔã\codeblocks\mingw\include\ole2.h
+	<winerror.h>
+	<objbase.h>
+	<olectlid.h>
+	<oleauto.h>
+	<oleidl.h>
+
+1301111154 f:\vg101\ÂÒÆß°ËÔã\codeblocks\mingw\include\objbase.h
+	<rpc.h>
+	<rpcndr.h>
+	<stdlib.h>
+	<basetyps.h>
+	<wtypes.h>
+	<unknwn.h>
+	<objidl.h>
+	<cguid.h>
+
+1341006776 f:\vg101\ÂÒÆß°ËÔã\codeblocks\mingw\include\stdlib.h
+	<_mingw.h>
+	<stddef.h>
+
+1301111156 f:\vg101\ÂÒÆß°ËÔã\codeblocks\mingw\include\objidl.h
+	<objfwd.h>
+
+1301111148 f:\vg101\ÂÒÆß°ËÔã\codeblocks\mingw\include\cguid.h
+
+1301111156 f:\vg101\ÂÒÆß°ËÔã\codeblocks\mingw\include\olectlid.h
+
+1301111156 f:\vg101\ÂÒÆß°ËÔã\codeblocks\mingw\include\oleauto.h
+	<oaidl.h>
+
+1301111154 f:\vg101\ÂÒÆß°ËÔã\codeblocks\mingw\include\oaidl.h
+	<windows.h>
+	<ole2.h>
+
+1301111156 f:\vg101\ÂÒÆß°ËÔã\codeblocks\mingw\include\oleidl.h
+	<objfwd.h>
+
+1470396674 c:\users\admin\desktop\final project (1)\final project\figures.h
+	<windows.h>
+	<cmath>
+	<GL/glut.h>
+	<ctime>
+
+903428686 f:\vg101\ÂÒÆß°ËÔã\codeblocks\mingw\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1301111164 f:\vg101\ÂÒÆß°ËÔã\codeblocks\mingw\include\gl\gl.h
+
+1301111164 f:\vg101\ÂÒÆß°ËÔã\codeblocks\mingw\include\gl\glu.h
+	<stddef.h>
+	<GL/gl.h>
+
+1470393505 source:c:\users\admin\desktop\final project (1)\final project\car.cpp
+	<windows.h>
+	"figures.h"
+	<cmath>
+
+1470381576 source:c:\users\admin\desktop\final project (1)\final project\circle.cpp
+	"figures.h"
+
+1470355566 source:c:\users\admin\desktop\final project (1)\final project\line.cpp
+	"figures.h"
+
+1470397506 source:c:\users\admin\desktop\final project (1)\final project\logic.cpp
+	"figures.h"
+
+1470390579 source:c:\users\admin\desktop\final project (1)\final project\main.cpp
+	<iostream>
+	<ctime>
+	"figures.h"
+
+1470381575 source:c:\users\admin\desktop\final project (1)\final project\map.cpp
+	"figures.h"
+
+1470353644 source:c:\users\admin\desktop\final project (1)\final project\polygon.cpp
+	"figures.h"
+
+1470328664 source:c:\users\admin\desktop\final project (1)\final project\rectangle.cpp
+	<windows.h>
+	"figures.h"
+
+1470323571 source:c:\users\admin\desktop\final project (1)\final project\rocket.cpp
+	<windows.h>
+	"figures.h"
+
+1470353623 source:c:\users\admin\desktop\final project (1)\final project\semicircle.cpp
+	"figures.h"
+
+1470396653 source:c:\users\admin\desktop\final project (1)\final project\star.cpp
+	"figures.h"
+
+1470322556 source:c:\users\admin\desktop\final project (1)\final project\teleporter.cpp
+	"figures.h"
+
+1470360592 source:c:\users\admin\desktop\final project (1)\final project\test.cpp
+	<iostream>
+	<ctime>
+	<windows.h>
+	"figures.h"
+
+1470051639 source:c:\users\admin\desktop\final project (1)\final project\trapezoid.cpp
+	<windows.h>
+	"figures.h"
+
+1470052478 source:c:\users\admin\desktop\final project (1)\final project\triangle.cpp
+	<windows.h>
+	"figures.h"
+
+1470323571 source:c:\users\admin\desktop\final project (1)\final project\ufo.cpp
+	<windows.h>
+	"figures.h"
+
+1470471342 source:c:\users\admin\desktop\project\arrow.cpp
+	<windows.h>
+	"figures.h"
+
+1470473088 c:\users\admin\desktop\project\figures.h
+	<windows.h>
+	<cmath>
+	<GL/glut.h>
+	<ctime>
+
+1470393505 source:c:\users\admin\desktop\project\car.cpp
+	<windows.h>
+	"figures.h"
+	<cmath>
+
+1470381576 source:c:\users\admin\desktop\project\circle.cpp
+	"figures.h"
+
+1470355566 source:c:\users\admin\desktop\project\line.cpp
+	"figures.h"
+
+1470473617 source:c:\users\admin\desktop\project\logic.cpp
+	"figures.h"
+
+1470471190 source:c:\users\admin\desktop\project\main.cpp
+	<iostream>
+	<ctime>
+	"figures.h"
+
+1470473088 source:c:\users\admin\desktop\project\map.cpp
+	"figures.h"
+
+1470353644 source:c:\users\admin\desktop\project\polygon.cpp
+	"figures.h"
+
+1470328664 source:c:\users\admin\desktop\project\rectangle.cpp
+	<windows.h>
+	"figures.h"
+
+1470458695 source:c:\users\admin\desktop\project\rocket.cpp
+	<windows.h>
+	"figures.h"
+
+1470353623 source:c:\users\admin\desktop\project\semicircle.cpp
+	"figures.h"
+
+1470472603 source:c:\users\admin\desktop\project\star.cpp
+	"figures.h"
+
+1470405889 source:c:\users\admin\desktop\project\teleporter.cpp
+	"figures.h"
+
+1470400883 source:c:\users\admin\desktop\project\trapezoid.cpp
+	<windows.h>
+	"figures.h"
+
+1470400883 source:c:\users\admin\desktop\project\triangle.cpp
+	<windows.h>
+	"figures.h"
+
+1470458662 source:c:\users\admin\desktop\project\ufo.cpp
+	<windows.h>
+	"figures.h"
+
